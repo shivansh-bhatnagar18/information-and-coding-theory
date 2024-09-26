@@ -1,9 +1,4 @@
-#include <iostream>
-#include <unordered_map>
-#include <queue>
-#include <vector>
-#include <cmath>
-#include <string>
+#include <bits/stdc++.h>
 
 using namespace std;
 
