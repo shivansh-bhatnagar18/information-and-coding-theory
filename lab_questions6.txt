@@ -1,0 +1,6 @@
+Let G be a generator matrix for the binary linear code C. Write a program to print all the codewords of C
+G = [[1, 0, 0,  0, 1], [0, 1, 0, 0, 1], [0, 0, 1, 1, 1]]
+
+Write a program to verify whether the following matrix is a parity check matrix for the linear code
+C = {0000, 1110, 1011, 0101}
+H = [[1, 1, 0, 1], [0, 1, 1, 1]]
